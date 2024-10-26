@@ -1,11 +1,11 @@
 ## Setup venv
 ```python
-python3 -m venv ~/.env
+python3 -m venv .
 ```
 
 ## Activate venv
 ```python
-source ~/.env/bin/activate
+source bin/activate
 # install deps
 pip install -r requirements.txt
 # run notebook
