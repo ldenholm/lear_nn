@@ -14,5 +14,5 @@ jupyter notebook
 
 ## Download tiny shakespeare
 ```bash
-curl https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt -o tinyshakespeare.txt
+curl https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt
 ```
